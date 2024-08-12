@@ -11,5 +11,5 @@ TED (от англ. technology, education, design — «технологии, о
 
 ## Итог: 
 Подготовлен интерактивный дашборд на основе данных о конференциях
-![alt text](./img/picture.png)
+![alt text](./img/picture_1.png)
 
